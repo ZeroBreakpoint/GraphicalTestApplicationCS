@@ -1,0 +1,4 @@
+C:\Users\bradl\OneDrive\Documents\C# Assessments\GraphicalTestApplicationCS\GraphicalTestApplicationCS\obj\Debug\net8.0\GraphicalTestApplicationCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bradl\OneDrive\Documents\C# Assessments\GraphicalTestApplicationCS\GraphicalTestApplicationCS\obj\Debug\net8.0\GraphicalTestApplicationCS.AssemblyInfoInputs.cache
+C:\Users\bradl\OneDrive\Documents\C# Assessments\GraphicalTestApplicationCS\GraphicalTestApplicationCS\obj\Debug\net8.0\GraphicalTestApplicationCS.AssemblyInfo.cs
+C:\Users\bradl\OneDrive\Documents\C# Assessments\GraphicalTestApplicationCS\GraphicalTestApplicationCS\obj\Debug\net8.0\GraphicalTestApplicationCS.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YH1Xugg6TMM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bradl\\OneDrive\\Documents\\C# Assessments\\GraphicalTestApplicationCS\\GraphicalTestApplicationCS\\GraphicalTestApplicationCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bradl\\.nuget\\packages\\raylib-cs\\4.5.0\\raylib-cs.4.5.0.nupkg.sha512",
+    "C:\\Users\\bradl\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
